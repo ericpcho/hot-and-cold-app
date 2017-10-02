@@ -1,0 +1,37 @@
+.form {
+    padding: 20px;
+    background-color: #394264;
+}
+
+input {
+    display: block;
+    width: 300px;
+    margin: 10px auto;
+    padding: 10px;
+    background:#50597b;
+    border: 1px solid black;
+    font-size: 2em;
+}
+
+input.text{
+    text-align: center;
+}
+.button {
+    background: #1F253D;
+    color: #95a5a6;
+    display: block;
+    width: 300px;
+    margin: 10px auto;
+    padding: 10px;
+    }
+
+.guess-number {
+    display: block;
+    text-align: center;
+}
+
+p {
+    display: inline;
+    color: orange;
+    font-size: 40px;
+}

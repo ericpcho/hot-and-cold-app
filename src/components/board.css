@@ -1,0 +1,48 @@
+html {
+    background-color: #394264;
+    height: 100%; 
+    width: 100%
+}
+
+nav{ 
+    display: flex;
+    
+}
+body {
+    background-color: #1F253D;
+    height: 96%;
+    width: 98%;
+    margin: .8em auto;
+    border-radius: 4px;
+    font-family: 'Lato', "Calibri", "Arial," "sans-sarif";
+    padding: 10px;
+    font-weight: 700;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 2em;
+    color: white;
+    text-align: center;
+    padding: .8em;
+}
+
+.nav-text1,.nav-text2{
+    color: white;
+}
+
+.nav-text1{
+    flex-grow: 1;
+    order: 0
+}
+
+.nav-text{
+    order: 1
+}
+
+.board2{
+width: 350px;
+margin: 0 auto;
+border: 1px solid black;
+border-radius: 4px;
+}

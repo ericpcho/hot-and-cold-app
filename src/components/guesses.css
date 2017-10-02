@@ -1,0 +1,7 @@
+.guesses{
+    display: block;
+    background-color: #11a8ab;
+    text-align: center;
+    padding: 20px;
+    border-radius: 0 0 4px 4px;
+}
